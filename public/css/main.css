@@ -12846,6 +12846,7 @@ body {
 
 footer {
   position: absolute;
+  margin-left: 0px;
   bottom: 0;
   width: 100%;
   height: 45px;
@@ -12945,7 +12946,7 @@ textarea {
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
 /* =================================== */
-/*  Basic Style 
+/*  Basic Style
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
@@ -13633,6 +13634,9 @@ th {
 @media (max-width: 991px) {
   .section-gap-top {
     padding-top: 60px; } }
+
+.topio {
+  margin-top: 50px; }
 
 .section-title {
   padding-bottom: 30px; }
@@ -15079,7 +15083,7 @@ h1, h2, h3, h4, h5, h6 {
 .sticky-wrapper {
   height: 48px !important; }
 
-/* Start Home Banner Area 
+/* Start Home Banner Area
 ============================================================================================ */
 .home-banner-area {
   background: url(../img/header-bg.png) no-repeat center; }
@@ -15121,9 +15125,9 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   padding-top: 8px; }
 
-/* End Home Banner Area 
+/* End Home Banner Area
 ============================================================================================ */
-/* Start Banner Area 
+/* Start Banner Area
 ============================================================================================ */
 .banner-area {
   background: url(../img/banner-bg.png) no-repeat center; }
@@ -15169,7 +15173,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   padding-top: 8px; }
 
-/* End Banner Area 
+/* End Banner Area
 ============================================================================================ */
 /* Start About Area css
 ============================================================================================ */
@@ -16267,6 +16271,9 @@ h1, h2, h3, h4, h5, h6 {
 /*  Footer Styles
 /* =================================== */
 /*-------- start footer Area -------------*/
+.footero {
+  margin-top: 100px; }
+
 .footer-area {
   background-color: #04091e; }
 
